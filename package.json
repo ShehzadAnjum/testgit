@@ -1,0 +1,16 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "to learn and test GIT",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "test",
+    "learn"
+  ],
+  "author": "Shehzad Anjum",
+  "license": "ISC"
+}
